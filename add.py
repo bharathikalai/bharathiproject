@@ -1,4 +1,4 @@
-a = 10
+
+a = 1 
 b = 2
-c = 22
-print (a + b + c)
+print (a + b)
