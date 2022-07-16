@@ -4,3 +4,4 @@ c = 8
 print (a * b * c)
 print (a + b)
 print (a - b)
+print (a / b)
